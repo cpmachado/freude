@@ -1,4 +1,6 @@
-# freude
+# freude (WIP)
+
+[![build](https://github.com/cpmachado/freude/actions/workflows/go.yml/badge.svg)](https://github.com/cpmachado/freude/actions/workflows/go.yml)
 
 Let the quarrel on template formats end, let us bring joy to development.
 
